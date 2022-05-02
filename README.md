@@ -12,7 +12,7 @@ The file is a command line application that receives Net salary and Allowance as
 
 
 - Gross Salary
-- BasicSalary
+- Basic Salary
 - Total PayeTax
 - Employee Pension Contribution
 - Employer Pension Contribution
